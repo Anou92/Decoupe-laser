@@ -60,17 +60,12 @@
 
 ## Matériaux qui se découpent mal au laser
 
-
   |   |   |   |   |  
 -- | -- | -- | -- | -- | --
   | MATIERE | PROBLEME |  
-  | Moquette Graphlex | Difficulté à découper |  
-  | Polyamide + fibre de carbone et verre | Encrassement du filtre de la fumée |  
+  | Moquette Graphlex | Difficulté à découper 
+  | Polyamide + fibre de carbone et verre | Encrassement du filtre de la fumée
   |   |   |  
-
-
-
-
 
 
 
