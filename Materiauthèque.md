@@ -1,9 +1,7 @@
 ## Materiautheque
 
 
-# Matériaux autorisés au laser
-
- |   |   |   |   |   |  
+  |   |   |   |   |   |  
 -- | -- | -- | -- | -- | -- | --
   | BOIS | PLASTIQUE | MOUSSE | TEXTILE | DIVERS |  
   |  
@@ -18,6 +16,7 @@
   |   | Acrylonitrile-butadiène-styrène (ABS) |   | Polyester |   |  
   |   | Rhodoïd |   |   |   |  
   |   |   |   |   |   |  
+
 
 
 
