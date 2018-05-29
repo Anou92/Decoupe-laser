@@ -1,4 +1,50 @@
-# Materiautheque
+## Materiautheque
+
+
+# Matériaux autorisés au laser
+
+ |   |   |   |   |   |  
+-- | -- | -- | -- | -- | -- | --
+  | BOIS | PLASTIQUE | MOUSSE | TEXTILE | DIVERS |  
+  |  
+  | Mdf | Polyamide (PA) | Polyester (PES) | Feutre | Cuir |  
+  | Médium | Polyoxyméthylène (POM) | Polyéthylène (PE) | Coton | Papier |  
+  | Contreplaqué | Polyester (PES) | Polyuréthane (PUR) | Soie | Carton |  
+  |   | Polyéthylène téréphtalate (PET) | Néoprene | Organza | Carton plume |  
+  |   | Polyimide (PI) |   | Viscose | Carton mousse |  
+  |   | Polystyrène (PS) |   | Chanvre | Caoutchouc synthétique ( si pas de chlore) |  
+  |   | Polyméthylmétacrylate (PMMA) = Plexiglas |   | Acrylique | Caoutchouc naturel |  
+  |   | Polypropylène (PP) |   | Nylon |   |  
+  |   | Acrylonitrile-butadiène-styrène (ABS) |   | Polyester |   |  
+  |   | Rhodoïd |   |   |   |  
+  |   |   |   |   |   |  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
   |   |   |   |   |   |   |  
