@@ -16,12 +16,13 @@ Contreplaqué | Polyester (PES) | Polyuréthane (PUR) | Soie | Carton
   | Rhodoïd |   |   |  
 
 
-
-
-
 ## Matériaux interdits au laser
 
-
+MATERIAUX INTERDITS AU LASER | RISQUES
+-- | --
+Pvc, vynil | Emission de gaz chloré mortel
+Teflon, polytétrafluoroéthylène ( PTFE ) | Emission de fluor sous forme de gaz
+Miroir, métaux polis, chrome | Matériaux réfléchissants pourraient endommager fortement la machine
 
 
 ## Réglages matériaux
