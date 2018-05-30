@@ -1,5 +1,6 @@
 # Materiautheque
 
+
 ## Matériaux autorisés au laser
 
 BOIS | PLASTIQUE | MOUSSE | TEXTILE | DIVERS
@@ -16,13 +17,16 @@ Contreplaqué | Polyester (PES) | Polyuréthane (PUR) | Soie | Carton
   | Rhodoïd |   |   |  
 
 
+
 ## Matériaux interdits au laser
+
 
 MATERIAUX INTERDITS AU LASER | RISQUES
 -- | --
 Pvc, vynil | Emission de gaz chloré mortel
 Teflon, polytétrafluoroéthylène ( PTFE ) | Emission de fluor sous forme de gaz
 Miroir, métaux polis, chrome | Matériaux réfléchissants pourraient endommager fortement la machine
+
 
 
 ## Réglages matériaux
@@ -43,6 +47,14 @@ Mousse | 5 | cut | 600 | 30 | 1
 
 
 ## Matériaux qui se découpent mal au laser
+
+
+MATERIAU | PROBLEME
+-- | --
+Moquette Graphlex | Difficulté à découper
+Polyamide + fibre de carbone et verre | Encrassement du filtre de la fumée
+
+
 
 
 
