@@ -5,8 +5,7 @@
 
   |   |   |   |   |   |  
 -- | -- | -- | -- | -- | -- | --
-  | BOIS | PLASTIQUE | MOUSSE | TEXTILE | DIVERS |  
-  |  
+  | BOIS | PLASTIQUE | MOUSSE | TEXTILE | DIVERS |    
   | Mdf | Polyamide (PA) | Polyester (PES) | Feutre | Cuir |  
   | Médium | Polyoxyméthylène (POM) | Polyéthylène (PE) | Coton | Papier |  
   | Contreplaqué | Polyester (PES) | Polyuréthane (PUR) | Soie | Carton |  
@@ -27,7 +26,6 @@
   |   |   |  
 -- | -- | -- | --
   | MATERIAUX INTERDITS AU LASER | RISQUES |  
-  |  
   | Pvc, vynil | Emission de gaz chloré mortel |  
   | Teflon, polytétrafluoroéthylène ( PTFE ) | Emission de fluor sous forme de gaz |  
   | Miroir, métaux polis, chrome | Matériaux réfléchissants pourraient endommager fortement la machine |  
