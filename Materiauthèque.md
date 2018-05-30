@@ -1,7 +1,9 @@
 # Materiautheque
 
 
+
 ## Matériaux autorisés au laser
+
 
 BOIS | PLASTIQUE | MOUSSE | TEXTILE | DIVERS
 -- | -- | -- | -- | --
@@ -31,6 +33,7 @@ Miroir, métaux polis, chrome | Matériaux réfléchissants pourraient endommage
 
 ## Réglages matériaux
 
+
 MATERIAUX | EPAISSEUR (mm) | ACTION | F | % | NB  PASS
 -- | -- | :-- | -- | -- | --
 Bois |   |   |   |   |  
@@ -44,6 +47,7 @@ Polypropylène | 0,8 | cut | 800 | 40 | 1
   |   |   |   |   |  
 Carton | 2,6 | cut | 1500 | 40 | 1
 Mousse | 5 | cut | 600 | 30 | 1
+
 
 
 ## Matériaux qui se découpent mal au laser
